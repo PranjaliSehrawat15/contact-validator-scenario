@@ -1,1 +1,0 @@
-# contact-validator-scenario
